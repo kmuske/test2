@@ -1,4 +1,4 @@
-server host=
+server host=db_client21.nydomain.com
 server user=
 server port=
 server pass=
